@@ -2,13 +2,13 @@ import adafruit_dht
 import time
 import board
 # from board import GPIO4
-dht_device = adafruit_dht.DHT22(board.D4)
+dht_device = adafruit_dht.DHT22(board.D2)
 
 
 # print("Press x to exit program")
 # x=input()
 while(True):
-    time.sleep(60) #Sleep for 60 seconds
+    time.sleep(2) #Sleep for 60 seconds
     try:
         temperature = dht_device.temperature
         humidity = dht_device.humidity
