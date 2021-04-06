@@ -1,0 +1,11 @@
+Step to compile the file : 
+1. install  dragino radiohead and add in the ardunino library
+https://github.com/dragino/RadioHead
+2. Install dhtlib in arduino library 
+3. Change the board to ardunino uno and port select the port that is currently using
+
+
+
+Take Note: file is taken from dragino github 
+https://wiki.dragino.com/index.php?title=Through_MQTT_to_upload_data#Updata_data_to_Server.28Through_MQTT.29
+https://github.com/dragino/Arduino-Profile-Examples/tree/master/libraries/Dragino/examples/IoTServer/ThingSpeak/MQTT_Client
