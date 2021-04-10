@@ -13,9 +13,10 @@ https://github.com/dragino/Arduino-Profile-Examples/tree/master/libraries/Dragin
 
 
 Following Steps:
-1.Log in into the http://10.130.1.1/cgi-bin/luci/admin
+1. Log in into the http://10.130.1.1/cgi-bin/luci/admin
 2. Configure network access.Network->Internet Access
-3. Get access from Thingspeak and fill in the field in the internet access
+3. Set up the Thingspeak and set up the fields
+4. Get access from Thingspeak and fill in the field in the internet access (Write API)
 
 
 
