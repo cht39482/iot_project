@@ -1,3 +1,4 @@
+LoRa  
 Step to compile the file : 
 1. install  dragino radiohead and add in the ardunino library
 https://github.com/dragino/RadioHead
@@ -21,3 +22,7 @@ Following Steps:
 
 Step is taken from this https://wiki.dragino.com/index.php?title=Through_MQTT_to_upload_data#Updata_data_to_Server.28Through_MQTT.29 guide 
 Dragino User Gateway - http://www.dragino.com/downloads/downloads/LoRa_Gateway/LG01N/LG01N_LoRa_Gateway_User_Manual_v1.1.pdf
+
+Bluetooth BLE
+1. Upload BLE Server to the Pycom board and run  
+2. Place BLE Client folder in the Raspberry Pi and run the following command in cmd "sudo python main.py"   
