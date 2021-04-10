@@ -9,3 +9,15 @@ https://github.com/dragino/RadioHead
 Take Note: file is taken from dragino github 
 https://wiki.dragino.com/index.php?title=Through_MQTT_to_upload_data#Updata_data_to_Server.28Through_MQTT.29
 https://github.com/dragino/Arduino-Profile-Examples/tree/master/libraries/Dragino/examples/IoTServer/ThingSpeak/MQTT_Client
+
+
+
+Following Steps:
+1.Log in into the http://10.130.1.1/cgi-bin/luci/admin
+2. Configure network access.Network->Internet Access
+3. Get access from Thingspeak and fill in the field in the internet access
+
+
+
+Step is taken from this https://wiki.dragino.com/index.php?title=Through_MQTT_to_upload_data#Updata_data_to_Server.28Through_MQTT.29 guide 
+Dragino User Gateway - http://www.dragino.com/downloads/downloads/LoRa_Gateway/LG01N/LG01N_LoRa_Gateway_User_Manual_v1.1.pdf
